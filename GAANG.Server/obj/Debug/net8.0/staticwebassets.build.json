@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "2Wk/mGtd6As7hJeVVOormDH0GUYZr2MjiH6IoOETgD0=",
+  "Source": "GAANG.Server",
+  "BasePath": "_content/GAANG.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\SAI PRASANNA KUMAR\\GAANG\\GAANG\\gaang.client\\gaang.client.esproj",
+      "Version": 2,
+      "Source": "gaang.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

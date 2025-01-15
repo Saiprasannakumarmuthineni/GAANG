@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "rB2h0vZOWrmWxSX38CoV0gRHIQOELNT5joyPmH0hxUb2t7GSCu4KOsgVey0ugfhO0v+t2KM8wfsl3aBR9Y+lWQ==",
+  "success": true,
+  "projectFilePath": "C:\\SAI PRASANNA KUMAR\\GAANG\\GAANG\\GAANG.Server\\GAANG.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saiku\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.12\\microsoft.aspnetcore.spaproxy.8.0.12.nupkg.sha512",
+    "C:\\Users\\saiku\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\saiku\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\saiku\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\saiku\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\saiku\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\saiku\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
